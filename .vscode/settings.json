@@ -1,0 +1,29 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "autoloader",
+    "bcmath",
+    "chargebee",
+    "exif",
+    "inertiajs",
+    "laravel",
+    "mbstring",
+    "nunito",
+    "nuxt",
+    "pcntl",
+    "pcov",
+    "phpunit",
+    "shivammathur",
+    "stacksjs",
+    "tailwindcss",
+    "thrivecart",
+    "tokenable"
+  ],
+  "i18n-ally.localesPaths": [
+    "lang"
+  ]
+}
